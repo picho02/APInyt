@@ -18,6 +18,7 @@
    </androidx.recyclerview.widget.RecyclerView>
 
    <WebView
+       android:id="@+id/wvNews"
        android:layout_width="409dp"
        android:layout_height="535dp"
        android:layout_marginStart="8dp"
